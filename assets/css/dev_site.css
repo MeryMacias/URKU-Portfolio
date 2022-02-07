@@ -1,0 +1,16 @@
+
+
+.rk-header {
+    position: relative !important;
+}
+
+.rk-header {
+    background-color: #7F829B;
+    position: relative;
+    z-index: 5;
+}
+
+body {
+    background-color: #DEE1F5;
+    font-family: "Helvetica Neue",Arial;
+}
